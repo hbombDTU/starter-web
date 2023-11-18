@@ -17,4 +17,6 @@ This is a simple web project, deployment can e on any web server or even local f
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
-2014 Git.Trainig.
+2014 Git.Trainig. All rights reserved.
+ All rights reserved.
+
